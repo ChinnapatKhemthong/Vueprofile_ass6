@@ -8,7 +8,7 @@
    
         <div class="content">
 
-            <div class="content">
+            <div class="content1">
     <h1><p> <span>Address : </span> {{address}} </p></h1>
 <h1><p> <span>Email : </span> {{Email}} </p></h1>
 <h1><p> <span>Number : </span> {{tel}} </p></h1>

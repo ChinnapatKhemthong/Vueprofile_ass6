@@ -5,7 +5,7 @@
    
         <h1 class="heading"> MY <span>PROJECTS</span> </h1>
         
-        <div class="content">
+        <div class="content2">
     <h1>{{project}}</h1>
     <h1>{{projectname}}</h1>
     <h1>{{details}}</h1>
